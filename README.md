@@ -357,8 +357,7 @@ GELU        5.8636          351.99          2.1148
 **Key Finding**: SiLU achieves the lowest perplexity (332.55), closely followed by ReLU (332.87), while GELU lags slightly behind (351.99).
 
 ### Training Curves Analysis
-
-![Training Curves](training_curves.png)
+<img width="3569" height="2969" alt="training_curves" src="https://github.com/user-attachments/assets/94aae5a3-a4bb-4362-82c4-e47b7b944368" />
 
 The training curves reveal several important patterns across the four key metrics:
 
