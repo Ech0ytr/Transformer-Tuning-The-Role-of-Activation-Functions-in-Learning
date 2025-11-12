@@ -1,0 +1,4 @@
+Activation,Final Train Loss,Final Val Loss,Val Perplexity,Bits/Byte
+SILU,5.3286,5.8068,332.55,2.0944
+RELU,5.3532,5.8078,332.87,2.0947
+GELU,5.4168,5.8636,351.99,2.1148

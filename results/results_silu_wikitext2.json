@@ -1,0 +1,23 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 6.605523622224564,
+    "val_loss": 6.210074641487815,
+    "val_perplexity": 497.73840183515955,
+    "val_bits_per_byte": 2.2398109722061945
+  },
+  {
+    "epoch": 2,
+    "train_loss": 5.765398753688457,
+    "val_loss": 5.912832289547115,
+    "val_perplexity": 369.751918251783,
+    "val_bits_per_byte": 2.1326034554344395
+  },
+  {
+    "epoch": 3,
+    "train_loss": 5.328623543440473,
+    "val_loss": 5.806800797388151,
+    "val_perplexity": 332.55351595591156,
+    "val_bits_per_byte": 2.094360678455491
+  }
+]
