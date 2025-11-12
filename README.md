@@ -1,7 +1,6 @@
 # Transformer Tuning: The Role of Activation Functions in Learning
 
 **Author**: Echo Yu
-**Course**: DS5690 - Generative AI  
 **Date**: November 2025  
 
 ---
@@ -742,5 +741,5 @@ The similar performance of ReLU and SiLU suggests that **simple activation funct
 - Base transformer implementation: [alan-cooney/transformer-from-scratch](https://github.com/alan-cooney/transformer-from-scratch)
 - Dataset: WikiText-2 (Merity et al., 2016)
 - Framework: PyTorch, Hugging Face
-- Course: DS5690 Generative AI
+
 
