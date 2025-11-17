@@ -725,16 +725,6 @@ fancy_einsum>=0.0.3
 
 ---
 
-## Conclusion
-
-This project demonstrates that **activation functions have a measurable but modest impact on small transformer language models**. SiLU achieves the best performance (332.55 perplexity), closely followed by ReLU (332.87), with GELU trailing slightly (351.99). 
-
-The similar performance of ReLU and SiLU suggests that **simple activation functions remain competitive in smaller models**, while the prevalence of GELU in large models may be due to scale-dependent effects not observed here.
-
-**Key Takeaway**: While activation function choice matters, good data science practice—proper experimental design, reproducibility, and thorough analysis—matters more.
-
----
-
 ## Acknowledgments
 
 - Base transformer implementation: [alan-cooney/transformer-from-scratch](https://github.com/alan-cooney/transformer-from-scratch)
